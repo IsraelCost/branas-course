@@ -1,0 +1,8 @@
+{
+  "name": "branas-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IsraelCost/branas-course.git",
+  "author": "IsraelCost <cmteisrael@gmail.com>",
+  "license": "MIT"
+}
